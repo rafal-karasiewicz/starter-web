@@ -7,3 +7,5 @@ this is something I added to initial README file
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## how to
