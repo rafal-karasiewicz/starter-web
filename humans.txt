@@ -3,6 +3,7 @@
 
 # TEAM
 
+    rafal karasiewicz rk@w 33
     <name> -- <role> -- <twitter>
 
 # THANKS
