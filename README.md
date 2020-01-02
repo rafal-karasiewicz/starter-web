@@ -23,7 +23,8 @@ dfdf
 df
 mmm
 
-## how to
+## how to contribute
+please for this repo
 
 
 ### Copyright
